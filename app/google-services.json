@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "721041353817",
+    "firebase_url": "https://testing-26bf1.firebaseio.com",
+    "project_id": "testing-26bf1",
+    "storage_bucket": "testing-26bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721041353817:android:1e2245fa41ce2cacf95548",
+        "android_client_info": {
+          "package_name": "com.example.baru_nih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721041353817-i31q3qs7a8aj0c5vquq1d49ovnav9e53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-8cX-hCut6bO4kLUepgWEJ4POGX7DtsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721041353817-i31q3qs7a8aj0c5vquq1d49ovnav9e53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721041353817:android:dd4bffcbfc7c9381f95548",
+        "android_client_info": {
+          "package_name": "com.example.cafetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721041353817-i31q3qs7a8aj0c5vquq1d49ovnav9e53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-8cX-hCut6bO4kLUepgWEJ4POGX7DtsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721041353817-i31q3qs7a8aj0c5vquq1d49ovnav9e53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721041353817:android:ee58564bbdc29605f95548",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721041353817-i31q3qs7a8aj0c5vquq1d49ovnav9e53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-8cX-hCut6bO4kLUepgWEJ4POGX7DtsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721041353817-i31q3qs7a8aj0c5vquq1d49ovnav9e53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

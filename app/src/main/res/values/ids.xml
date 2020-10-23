@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item
+        name="inputusername"
+        type="id"/>
+    <item
+        name="inputconformpassword"
+        type="id"/>
+    <item
+        name="btnregister"
+        type="id"/>
+    <item
+        name="alreadyhaveaccount"
+        type="id"/>
+</resources>
